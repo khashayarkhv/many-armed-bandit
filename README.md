@@ -14,7 +14,7 @@ The scripts containing the implementation of various algorithms discussed in the
  
 * `contextual_montecarlo_datatest.py`: this file runs the monte carlo simulations for the contextual case using the Letter Recognition Dataset and generates the plots for the regret.
 
-## Requirements:
+## Requirements
 
 Requires python 3, numpy, scipy, and plotly (with orca for static image export).
 
